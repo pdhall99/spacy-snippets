@@ -1,2 +1,3 @@
 # spacy-snippets
-Snippets for spacy
+
+spaCy snippets
